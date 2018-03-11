@@ -1,3 +1,9 @@
+/*
+ *  Danial Ahmed
+ *   Data Structures
+ *    https://github.com/D4n1aLLL/Data-Structures
+ *     
+*/
 #include<stdio.h>
 
 void main(){

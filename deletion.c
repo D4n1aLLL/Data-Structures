@@ -1,3 +1,9 @@
+/*
+ *  Danial Ahmed
+ *   Data Structures
+ *    https://github.com/D4n1aLLL/Data-Structures
+ *
+*/
 #include<stdio.h>
 
 void main(){
@@ -12,7 +18,6 @@ void main(){
 		arr[i]=arr[i+1];
 	}
 	printf("\n");
-//	arr[k]=22;
 	for(int i=0;i<7;i++)
 		printf("%d\t",arr[i]);
 }
